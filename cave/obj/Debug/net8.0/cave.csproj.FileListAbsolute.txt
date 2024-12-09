@@ -1,0 +1,14 @@
+C:\Users\bastyai.botond\Desktop\cave\cave\bin\Debug\net8.0\cave.exe
+C:\Users\bastyai.botond\Desktop\cave\cave\bin\Debug\net8.0\cave.deps.json
+C:\Users\bastyai.botond\Desktop\cave\cave\bin\Debug\net8.0\cave.runtimeconfig.json
+C:\Users\bastyai.botond\Desktop\cave\cave\bin\Debug\net8.0\cave.dll
+C:\Users\bastyai.botond\Desktop\cave\cave\bin\Debug\net8.0\cave.pdb
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\cave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\cave.AssemblyInfoInputs.cache
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\cave.AssemblyInfo.cs
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\cave.csproj.CoreCompileInputs.cache
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\cave.dll
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\refint\cave.dll
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\cave.pdb
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\cave.genruntimeconfig.cache
+C:\Users\bastyai.botond\Desktop\cave\cave\obj\Debug\net8.0\ref\cave.dll
